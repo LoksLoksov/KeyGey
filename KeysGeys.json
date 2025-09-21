@@ -20,5 +20,12 @@
     "password": "loksov",
     "expiresAt": "2025-12-31",
     "allowOffline": false
+  }, 
+  {
+    "id": "f185b138909b51e0",
+    "username": "vu",
+    "password": "vud",
+    "expiresAt": "2025-10-23",
+    "allowOffline": false
   }
 ]
