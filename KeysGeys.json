@@ -42,5 +42,12 @@
     "password": "mmm1",
     "expiresAt": "2025-11-01",
     "allowOffline": false
-  }  
+  } , 
+  {
+    "id": "cb784f011d561ec2",
+    "username": "nsks",
+    "password": "mmm1",
+    "expiresAt": "2025-10-31",
+    "allowOffline": false
+  }   
 ]
