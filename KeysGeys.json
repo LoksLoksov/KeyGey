@@ -49,5 +49,11 @@
     "password": "mmm1",
     "expiresAt": "2025-10-31",
     "allowOffline": false
-  }   
+  }, {
+    "id": "e8c33870f4554608",
+    "username": "nsms",
+    "password": "maapk0",
+    "expiresAt": "2025-11-03",
+    "allowOffline": false
+  }
 ]
