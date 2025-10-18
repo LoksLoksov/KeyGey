@@ -56,12 +56,5 @@
     "password": "maapk0",
     "expiresAt": "2025-11-04",
     "allowOffline": false
-  }, 
-  {
-    "id": "324949899adc23fa",
-    "username": "xxx",
-    "password": "0019",
-    "expiresAt": "2025-11-07",
-    "allowOffline": false
-  } 
+  }
 ]
