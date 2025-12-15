@@ -82,5 +82,68 @@
     "password": "25",
     "expiresAt": "2026-01-15",
     "allowOffline": false
-  } 
+  }, 
+  {
+        "id": "d4f89a274b732b01",
+        "username": "bratanyan",
+        "password": "katerina123",
+        "expiresAt": "2025-11-05",
+        "allowOffline": false
+    },
+    {
+        "id": "a9b6fc3b7b849e0d",
+        "username": "xodim_mishan",
+        "password": "davaj_pesni",
+        "expiresAt": "2025-10-29",
+        "allowOffline": false
+    },
+    {
+        "id": "5f74e69d2b19d642",
+        "username": "zyra_41",
+        "password": "letuj_meh",
+        "expiresAt": "2025-11-14",
+        "allowOffline": false
+    },
+    {
+        "id": "76a1f8b5482f9d28",
+        "username": "russky_paka",
+        "password": "nikita_zz",
+        "expiresAt": "2025-11-02",
+        "allowOffline": false
+    },
+    {
+        "id": "c3e69fbb01753a7e",
+        "username": "bro_ofer",
+        "password": "gopnik456",
+        "expiresAt": "2025-11-11",
+        "allowOffline": false
+    },
+    {
+        "id": "b2e99d05d91a013f",
+        "username": "brat_pasha",
+        "password": "sasha10",
+        "expiresAt": "2025-10-30",
+        "allowOffline": false
+    },
+    {
+        "id": "48f9f48d3d65acb8",
+        "username": "kerzhakov_fan",
+        "password": "zaberi_menya",
+        "expiresAt": "2025-11-07",
+        "allowOffline": false
+    },
+    {
+        "id": "ab839d5c2d65fd92",
+        "username": "taras_yablonski",
+        "password": "kavun11",
+        "expiresAt": "2025-11-04",
+        "allowOffline": false
+    },
+    {
+        "id": "d6c92d3e44f63a49",
+        "username": "chelovek_po_rekreacii",
+        "password": "big_pitka",
+        "expiresAt": "2025-11-20",
+        "allowOffline": false
+    }
 ] 
