@@ -45,7 +45,14 @@
     "id": "7d4de4f2cdf6e150",
     "username": "nvrt",
     "password": "ilk",
-    "expiresAt": "2026-01-05",
+    "expiresAt": "2026-01-28",
+    "allowOffline": false
+  },
+  {
+    "id": "39bbc01bc6fecc2b",
+    "username": "svzd",
+    "password": "za",
+    "expiresAt": "2026-01-30",
     "allowOffline": false
   },
   {
