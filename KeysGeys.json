@@ -19,7 +19,7 @@
     "password": "zaor",
     "expiresAt": "2026-01-14",
     "allowOffline": false
-  },  
+  },
   {
     "id": "e75ac8e0db850507",
     "username": "hhk",
@@ -41,6 +41,13 @@
     "expiresAt": "2026-01-14",
     "allowOffline": false
   }, 
+  {
+    "id": "68a50f9d5d2f584d",
+    "username": "vgh",
+    "password": "zpi",
+    "expiresAt": "2026-02-01",
+    "allowOffline": false
+  },
   {
     "id": "7d4de4f2cdf6e150",
     "username": "nvrt",
