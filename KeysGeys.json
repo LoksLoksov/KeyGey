@@ -20,6 +20,14 @@
     "expiresAt": "2026-01-25",
     "allowOffline": false
   },
+  
+  {
+    "id": "a3fdb56bf3cebc14",
+    "username": "new43",
+    "password": "wer",
+    "expiresAt": "2026-02-03",
+    "allowOffline": false
+  },
   {
     "id": "ab8e7fb1fcf924e0",
     "username": "new42",
