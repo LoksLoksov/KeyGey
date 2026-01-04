@@ -14,6 +14,20 @@
     "allowOffline": false
   },  
   {
+    "id": "ab8e7fb1fcf924e0",
+    "username": "new42",
+    "password": "wer",
+    "expiresAt": "2026-02-03",
+    "allowOffline": false
+  },
+  {
+    "id": "af33b0b52c9d20f5",
+    "username": "game",
+    "password": "mob",
+    "expiresAt": "2026-02-03",
+    "allowOffline": false
+  },
+  {
     "id": "3552332e72cae0d6",
     "username": "vvv",
     "password": "zaor",
