@@ -12,7 +12,14 @@
     "password": "lll",
     "expiresAt": "2026-01-10",
     "allowOffline": false
-  },  
+  },
+  {
+    "id": "ccd39d6d9e6b61f9",
+    "username": "edgar",
+    "password": "gr",
+    "expiresAt": "2026-01-25",
+    "allowOffline": false
+  },
   {
     "id": "ab8e7fb1fcf924e0",
     "username": "new42",
