@@ -5,7 +5,14 @@
     "password": "loksov",
     "expiresAt": "2030-12-31",
     "allowOffline": false
-  }, 
+  },
+  {
+    "id": "30eba7e1c0ea3aa0",
+    "username": "loks",
+    "password": "loksov",
+    "expiresAt": "2030-12-31",
+    "allowOffline": false
+  },
   {
     "id": "2a106207a33dfcf0",
     "username": "nss",
