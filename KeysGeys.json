@@ -20,6 +20,13 @@
     "expiresAt": "2026-01-12",
     "allowOffline": false
   },
+   {
+    "id": "d95b705973760de7",
+    "username": "hie",
+    "password": "hie",
+    "expiresAt": "2026-02-13",
+    "allowOffline": false
+  },
   {
     "id": "1653307af5424911",
     "username": "que",
