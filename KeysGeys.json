@@ -27,6 +27,13 @@
     "expiresAt": "2026-02-14",
     "allowOffline": false
   },
+  {
+    "id": "97bedcdb28eeb417",
+    "username": "bil",
+    "password": "bil",
+    "expiresAt": "2026-02-16",
+    "allowOffline": false
+  },
    {
     "id": "ae11062b5e957eb5",
     "username": "fen",
