@@ -87,7 +87,7 @@
     "id": "2a106207a33dfcf0",
     "username": "nss",
     "password": "lll",
-    "expiresAt": "2026-01-12",
+    "expiresAt": "2026-03-05",
     "allowOffline": false
   },
   {
@@ -132,11 +132,18 @@
     "expiresAt": "2026-02-08",
     "allowOffline": false
    },
+   {
+    "id": "a7d9e1b5c30842f1",
+    "username": "esk",
+    "password": "esj",
+    "expiresAt": "2026-03-06",
+    "allowOffline": false
+   },
   {
     "id": "ccd39d6d9e6b61f9",
     "username": "edgar",
     "password": "gr",
-    "expiresAt": "2026-01-27",
+    "expiresAt": "2026-03-04",
     "allowOffline": false
   },
   {
